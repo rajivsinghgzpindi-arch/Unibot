@@ -1,7 +1,7 @@
 
 
 
-
+OPENAI_API_KEY=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
 [index2.html](https://github.com/user-attachments/files/22688811/index2.html)
 <!DOCTYPE html>
 <html lang="en">
